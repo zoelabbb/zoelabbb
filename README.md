@@ -3,6 +3,9 @@
 
 - 🌱 I’m currently learning **React & Go**
 - ⚡ Fun fact : I like food ahahaha
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoelabbb&show_icons=true&locale=en&theme=aura&hide_border=true" alt="zoelabbb" /></p>
 <hr>
 
 ### FRONTEND
@@ -22,9 +25,9 @@
 
 ![Postman](https://img.shields.io/badge/Postman-00000F?style=for-the-badge&logo=postman) ![Heroku](https://img.shields.io/badge/Heroku-00000F?style=for-the-badge&logo=heroku) ![Firebase](https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=firebase)
 
-<table border="none">
-  <tr border="none">
-    <td align="left" border="none">
+<table>
+  <tr>
+    <td align="left">
    <a href="#zoelabbb-title">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoelabbb&layout=compact&bg_color=20232a&hide_border=true&title_color=61dafb&text_color=ffffff&langs_count=10" alt="zoelabbb" align="left"/>
     </a>
@@ -48,7 +51,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ikoo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ikoo" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoelabbb&show_icons=true&locale=en&theme=aura&hide_border=true" alt="zoelabbb" /></p>
 
 <!--
 **zoelabbb/zoelabbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
