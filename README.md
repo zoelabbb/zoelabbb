@@ -23,8 +23,8 @@
 ![Postman](https://img.shields.io/badge/Postman-00000F?style=for-the-badge&logo=postman) ![Heroku](https://img.shields.io/badge/Heroku-00000F?style=for-the-badge&logo=heroku) ![Firebase](https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=firebase)
 
 <table border="none">
-  <tr>
-    <td align="left">
+  <tr border="none">
+    <td align="left" border="none">
    <a href="#zoelabbb-title">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoelabbb&layout=compact&bg_color=20232a&hide_border=true&title_color=61dafb&text_color=ffffff&langs_count=10" alt="zoelabbb" align="left"/>
     </a>
