@@ -24,7 +24,7 @@
 ![Go](https://img.shields.io/badge/-Go-07405E?style=for-the-badge&logo=go)
 ![JS](https://img.shields.io/badge/Javascript-00000F?style=for-the-badge&logo=javascript)
 
-![Postman](https://img.shields.io/badge/Postman-00000F?style=for-the-badge&logo=postman) ![Heroku](https://img.shields.io/badge/Heroku-00000F?style=for-the-badge&logo=heroku) ![Firebase](https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=firebase)
+![Postman](https://img.shields.io/badge/Postman-0B0D0E?style=for-the-badge&logo=postman) ![Heroku](https://img.shields.io/badge/Heroku-0B0D0E?style=for-the-badge&logo=heroku) ![Firebase](https://img.shields.io/badge/Firebase-0B0D0E?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/Planetscale-0B0D0E?style=for-the-badge&logo=planetscale) [![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway)](https://railway.app/?referralCode=CANLESS)
 
 <table>
   <tr>
