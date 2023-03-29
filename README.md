@@ -5,16 +5,17 @@
 - 🌱 I’m currently learning **React & Go**
 - ⚡ Fun fact : I like food ahahaha
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoelabbb&show_icons=true&locale=en&theme=aura&hide_border=true" alt="zoelabbb" /></p>
 
 <hr>
 
 ### FRONTEND
+
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### BACKEND & DATABASE
+
 ![CI](https://img.shields.io/badge/-Codeigniter-404D59?style=for-the-badge&logo=codeigniter) ![Go](https://img.shields.io/badge/-GO-07405E?style=for-the-badge&logo=go)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  ![SQL](https://img.shields.io/badge/MySQL-0B0D0E?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -22,6 +23,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
 
 ### LANGUAGES & TOOLS
+
 ![Go](https://img.shields.io/badge/-Go-07405E?style=for-the-badge&logo=go)
 ![JS](https://img.shields.io/badge/Javascript-0B0D0E?style=for-the-badge&logo=javascript)
 
@@ -42,7 +44,6 @@
   </tr>
 </table>
 
-
 <h3 align="left">CONNECT WITH ME</h3>
 
 [![Leetcode](https://img.shields.io/badge/Leet%20Code-0B0D0E?style=for-the-badge&logo=leetcode)](https://leetcode.com/zoelabbb/)
@@ -57,7 +58,6 @@
 
 [![Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-0B0D0E?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/ikoo)
 [![Trakteer](https://img.shields.io/badge/Trakteer-red?style=for-the-badge&logo=MasterCard)](https://www.teer.id/ikoo)
-
 
 <!--
 **zoelabbb/zoelabbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
