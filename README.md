@@ -17,13 +17,13 @@
 ### BACKEND & DATABASE
 ![CI](https://img.shields.io/badge/-Codeigniter-404D59?style=for-the-badge&logo=codeigniter) ![Go](https://img.shields.io/badge/-GO-07405E?style=for-the-badge&logo=go)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  ![SQL](https://img.shields.io/badge/MySQL-0B0D0E?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ### LANGUAGES & TOOLS
 ![Go](https://img.shields.io/badge/-Go-07405E?style=for-the-badge&logo=go)
-![JS](https://img.shields.io/badge/Javascript-00000F?style=for-the-badge&logo=javascript)
+![JS](https://img.shields.io/badge/Javascript-0B0D0E?style=for-the-badge&logo=javascript)
 
 ![Postman](https://img.shields.io/badge/Postman-0B0D0E?style=for-the-badge&logo=postman) ![Heroku](https://img.shields.io/badge/Heroku-0B0D0E?style=for-the-badge&logo=heroku) ![Firebase](https://img.shields.io/badge/Firebase-0B0D0E?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/Planetscale-0B0D0E?style=for-the-badge&logo=planetscale) [![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway)](https://railway.app/?referralCode=CANLESS)
 
@@ -43,7 +43,10 @@
 </table>
 
 
-<h3 align="left">CONNECT WITH ME:</h3>
+<h3 align="left">CONNECT WITH ME</h3>
+
+[![Leetcode](https://img.shields.io/badge/Leet%20Code-0B0D0E?style=for-the-badge&logo=leetcode)](https://leetcode.com/zoelabbb/)
+
 <p align="left">
 <a href="https://linkedin.com/in/alifryuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alifryuu" height="30" width="40" /></a>
 <a href="https://instagram.com/alifryuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alifryuu" height="30" width="40" /></a>
@@ -52,7 +55,7 @@
 
 <h3 align="left">SUPPORT</h3>
 
-[![Postman](https://img.shields.io/badge/Buy%20me%20a%20coffee-00000F?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/ikoo)
+[![Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-0B0D0E?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/ikoo)
 [![Trakteer](https://img.shields.io/badge/Trakteer-red?style=for-the-badge&logo=MasterCard)](https://www.teer.id/ikoo)
 
 
