@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend Developer from Indonesia 🇮🇩</h3>
 
 - 🌱 I’m currently learning **React & Go**
-- ⚡ Fun fact : I like food ahahaha 
+- ⚡ Fun fact : I like food ahahaha
 <hr>
 
 ### FRONTEND
@@ -22,7 +22,7 @@
 
 ![Postman](https://img.shields.io/badge/Postman-00000F?style=for-the-badge&logo=postman) ![Heroku](https://img.shields.io/badge/Heroku-00000F?style=for-the-badge&logo=heroku) ![Firebase](https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=firebase)
 
-<table>
+<table border="none">
   <tr>
     <td align="left">
    <a href="#zoelabbb-title">
