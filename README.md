@@ -31,7 +31,7 @@
   <tr>
     <td align="left">
    <a href="#zoelabbb-title">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoelabbb&layout=compact&bg_color=20232a&hide_border=true&title_color=61dafb&text_color=ffffff&langs_count=10" alt="zoelabbb" align="left"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoelabbb&layout=compact&bg_color=20232a&hide_border=true&title_color=61dafb&text_color=ffffff&langs_count=9" alt="zoelabbb" align="left"/>
     </a>
     </td>
     <td align="right">
