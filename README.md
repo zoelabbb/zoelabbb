@@ -4,7 +4,9 @@
 
 - 🌱 I’m currently learning **React & Go**
 - ⚡ Fun fact : I like food ahahaha
+- TryHackMe : Below
 
+<p><script src="https://tryhackme.com/badge/1862179"></script></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoelabbb&show_icons=true&locale=en&theme=aura&hide_border=true" alt="zoelabbb" /></p>
 
 <hr>
