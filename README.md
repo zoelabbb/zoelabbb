@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alif Ryuu</h1>
 <h3 align="center">A passionate Backend Developer from Indonesia 🇮🇩</h3>
 
-- 🌱 I’m currently learning **React & Go**
+- 🌱 I’m currently learning **Penetration Testing**
 - ⚡ Fun fact : I like food ahahaha
 - 🕵️‍♂️ TryHackMe & HTB Academy
 
