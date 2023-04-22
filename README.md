@@ -6,7 +6,7 @@
 - ⚡ Fun fact : I like food ahahaha
 - 🕵️‍♂️ TryHackMe & HTB Academy
 
-<p><img src="https://tryhackme-badges.s3.amazonaws.com/zoelabbb.png" alt="TryHackMe">
+<p><img src="https://tryhackme-badges.s3.amazonaws.com/h1zoe.png" alt="TryHackMe">
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoelabbb&show_icons=true&locale=en&theme=aura&hide_border=true" alt="zoelabbb" /></p>
 
