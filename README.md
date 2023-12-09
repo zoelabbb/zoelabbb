@@ -6,8 +6,11 @@
 - ⚡ Fun fact : I like food ahahaha
 - 🕵️‍♂️ TryHackMe & HTB Academy
 
-    <p> <img src="https://tryhackme-badges.s3.amazonaws.com/H1zoe.png" alt="TryHackMe"></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoelabbb&show_icons=true&locale=en&theme=aura&hide_border=true" alt="zoelabbb" /></p>
+<p> <img src="https://tryhackme-badges.s3.amazonaws.com/H1zoe.png" alt="TryHackMe"></p>
+
+| My Stats | My Daily Day |
+|----------|----------|
+| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoelabbb&show_icons=true&locale=en&theme=aura&hide_border=true" alt="zoelabbb" /></p> | <a href="https://app.daily.dev/alifryuu"><img src="https://api.daily.dev/devcards/bc6e27be4467435bb66aa59e8063eb37.png?r=nqv" width="400" alt="アリフリュウ's Dev Card"/></a> |
 
 <hr>
 
