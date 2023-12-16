@@ -14,6 +14,17 @@
 - ⚡ Fun fact : I like food ahahaha
 - 🕵️‍♂️ TryHackMe & HTB Academy
 
+<hr>
+
+<h1 align="center">My Projects</h1>
+
+| Project | Description | Support |
+|----------|----------| ----------|
+| <a href="https://github.com/zoelabbb/conio.h.git">zoelabbb/conio.h</a> | This is a library conio.h for linux 🖥️. | ![GitHub Repo stars](https://img.shields.io/github/stars/zoelabbb/conio.h?style=plastic)|
+| <a href="https://github.com/zoelabbb/Gweather.git">zoelabbb/Gweather</a> | This is a simple command-line tool ( CLI ) built with Golang that provides weather forecasts. |  ![GitHub Repo stars](https://img.shields.io/github/stars/zoelabbb/Gweather?style=plastic)|
+| <a href="https://github.com/zoelabbb/rexpressapi.ts.git">zoelabbb/rexpressapi.ts</a> | A simple and efficient REST API for managing blog posts and users. |  ![GitHub Repo stars](https://img.shields.io/github/stars/zoelabbb/rexpressapi.ts?style=plastic)|
+| <a href="https://github.com/zoelabbb/go-search-repos.git">zoelabbb/go-search-repos</a> | This project is a simple application that leverages the GitHub API to search for repositories and users based on specific keywords. |  ![GitHub Repo stars](https://img.shields.io/github/stars/zoelabbb/go-search-repos?style=plastic)|
+| <a href="https://github.com/zoelabbb/gocrud_psql.git">zoelabbb/gocrud_psql</a> | This repository contains a simple CRUD (Create, Read, Update, Delete) Rest API for managing books written in Golang. The application uses PostgreSQL as its database to store book information. |  ![GitHub Repo stars](https://img.shields.io/github/stars/zoelabbb/gocrud_psql?style=plastic)|
 
 | My Stats | My Daily Day |
 |----------|----------|
