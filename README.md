@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Alif Ryuu</h1>
 <div align="center">
 
 [![GitHub: zoelabbb](https://img.shields.io/github/followers/zoelabbb?label=follow&style=for-the-badge&logo=github)](https://github.com/zoelabbb)&nbsp;
@@ -7,6 +6,8 @@
 [![Trakteer](https://img.shields.io/badge/Trakteer-red?style=for-the-badge&logo=MasterCard)](https://www.teer.id/ikoo)&nbsp;
 
 </div>
+
+<h1 align="center">Hi 👋, I'm Alif Ryuu</h1>
 <h3 align="center">A passionate Backend Developer & Cyber Security from Indonesia 🇮🇩</h3>
 
 - 🌱 I’m currently learning **Penetration Testing**
