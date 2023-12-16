@@ -1,16 +1,28 @@
-[![GitHub: zoelabbb](https://img.shields.io/github/followers/zoelabbb?label=follow&style=social)](https://github.com/zoelabbb)&nbsp;
 <h1 align="center">Hi 👋, I'm Alif Ryuu</h1>
+<div align="center">
+
+[![GitHub: zoelabbb](https://img.shields.io/github/followers/zoelabbb?label=follow&style=for-the-badge&logo=github)](https://github.com/zoelabbb)&nbsp;
+[![Instagram: makudonaru_](https://img.shields.io/badge/Instagram-0B0D0E?style=for-the-badge&logo=instagram)](https://instagram.com/makudonaru_)&nbsp;
+[![Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-0B0D0E?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/ikoo)&nbsp;
+[![Trakteer](https://img.shields.io/badge/Trakteer-red?style=for-the-badge&logo=MasterCard)](https://www.teer.id/ikoo)&nbsp;
+
+</div>
 <h3 align="center">A passionate Backend Developer & Cyber Security from Indonesia 🇮🇩</h3>
 
 - 🌱 I’m currently learning **Penetration Testing**
 - ⚡ Fun fact : I like food ahahaha
 - 🕵️‍♂️ TryHackMe & HTB Academy
 
-<p> <img src="https://tryhackme-badges.s3.amazonaws.com/H1zoe.png" alt="TryHackMe"></p>
 
 | My Stats | My Daily Day |
 |----------|----------|
 | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoelabbb&show_icons=true&locale=en&theme=aura&hide_border=true" alt="zoelabbb" /></p> | <a href="https://app.daily.dev/alifryuu"><img src="https://api.daily.dev/devcards/bc6e27be4467435bb66aa59e8063eb37.png?r=nqv" width="250" alt="アリフリュウ's Dev Card"/></a> |
+
+<div align="center">
+
+<p> <img src="https://tryhackme-badges.s3.amazonaws.com/H1zoe.png" alt="TryHackMe"></p>
+
+</div>
 
 <hr>
 
