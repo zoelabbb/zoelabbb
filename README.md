@@ -16,6 +16,7 @@
 
 <hr>
 
+<div align="center">
 <h1 align="center">My Projects</h1>
 
 | Project | Description | Support |
@@ -29,8 +30,6 @@
 | My Stats | My Daily Day |
 |----------|----------|
 | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoelabbb&show_icons=true&locale=en&theme=aura&hide_border=true" alt="zoelabbb" /></p> | <a href="https://app.daily.dev/alifryuu"><img src="https://api.daily.dev/devcards/bc6e27be4467435bb66aa59e8063eb37.png?r=nqv" width="250" alt="アリフリュウ's Dev Card"/></a> |
-
-<div align="center">
 
 <p> <img src="https://tryhackme-badges.s3.amazonaws.com/H1zoe.png" alt="TryHackMe"></p>
 
