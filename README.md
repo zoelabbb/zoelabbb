@@ -3,7 +3,7 @@
 [![GitHub: zoelabbb](https://img.shields.io/github/followers/zoelabbb?label=follow&style=for-the-badge&logo=github)](https://github.com/zoelabbb)&nbsp;
 [![Instagram: makudonaru_](https://img.shields.io/badge/Instagram-0B0D0E?style=for-the-badge&logo=instagram)](https://instagram.com/makudonaru_)&nbsp;
 [![Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-0B0D0E?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/ikoo)&nbsp;
-[![Trakteer](https://img.shields.io/badge/Trakteer-red?style=for-the-badge&logo=MasterCard)](https://trakteer.id/ikoo/link))&nbsp;
+[![Trakteer](https://img.shields.io/badge/Trakteer-red?style=for-the-badge&logo=MasterCard)](https://trakteer.id/ikoo/link)&nbsp;
 
 </div>
 
