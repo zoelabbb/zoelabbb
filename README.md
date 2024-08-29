@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Penetration Testing**
 - ⚡ Fun fact : I like food ahahaha
-- 🕵️‍♂️ TryHackMe & HTB Academy
+- 🕵️‍♂️ BugCrowd, Hackerone & Intigriti
 
 <hr>
 
@@ -36,6 +36,12 @@
 </div>
 
 <hr>
+
+### Bug Hunter
+
+![Bugcrowd](https://img.shields.io/badge/Bugcrowd-red?style=for-the-badge&logo=cobaltstrike)
+![Hackerone](https://img.shields.io/badge/Hackerone-black?style=for-the-badge&logo=hackerone)
+![Intigriti](https://img.shields.io/badge/Intigriti-blue?style=for-the-badge&logo=intigriti)
 
 ### FRONTEND
 
