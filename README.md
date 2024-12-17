@@ -13,7 +13,8 @@
 - 🌱 I’m currently learning **Penetration Testing**
 - ⚡ Fun fact I like food ahahaha
 - 🕵️‍♂️ Bug Hunter @ BugCrowd, Hackerone & Intigriti
-- 🔭 I’m currently working on PT Inovasi Teknologi Kosmetika (INTEKO)
+- 🔭 Currently I work as a freelancer
+- Founder Urproject Studio
 
 <hr>
 
