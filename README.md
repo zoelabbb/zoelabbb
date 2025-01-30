@@ -2,7 +2,7 @@
 
 [![GitHub: zoelabbb](https://img.shields.io/github/followers/zoelabbb?label=follow&style=for-the-badge&logo=github)](https://github.com/zoelabbb)&nbsp;
 [![Instagram: makudonaru_](https://img.shields.io/badge/Instagram-0B0D0E?style=for-the-badge&logo=instagram)](https://instagram.com/makudonaru_)&nbsp;
-[![Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-0B0D0E?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/ikoo)&nbsp;
+[![Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-0B0D0E?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/alifryuu)&nbsp;
 [![Trakteer](https://img.shields.io/badge/Trakteer-red?style=for-the-badge&logo=MasterCard)](https://trakteer.id/ikoo/link)&nbsp;
 
 </div>
@@ -21,18 +21,12 @@
 <div align="center">
 <h1 align="center">My Projects</h1>
 
-| Project                                                                              | Description                                                                                                                                                                                     | Support                                                                                         |
-| ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| <a href="https://github.com/zoelabbb/conio.h.git">zoelabbb/conio.h</a>               | This is a library conio.h for linux 🖥️.                                                                                                                                                         | ![GitHub Repo stars](https://img.shields.io/github/stars/zoelabbb/conio.h?style=plastic)        |
-| <a href="https://github.com/zoelabbb/Gweather.git">zoelabbb/Gweather</a>             | This is a simple command-line tool ( CLI ) built with Golang that provides weather forecasts.                                                                                                   | ![GitHub Repo stars](https://img.shields.io/github/stars/zoelabbb/Gweather?style=plastic)       |
-| <a href="https://github.com/zoelabbb/rexpressapi.ts.git">zoelabbb/rexpressapi.ts</a> | A simple and efficient REST API for managing blog posts and users.                                                                                                                              | ![GitHub Repo stars](https://img.shields.io/github/stars/zoelabbb/rexpressapi.ts?style=plastic) |
-| <a href="https://github.com/zoelabbb/gocrud_psql.git">zoelabbb/gocrud_psql</a>       | This repository contains a simple CRUD (Create, Read, Update, Delete) Rest API for managing books written in Golang. The application uses PostgreSQL as its database to store book information. | ![GitHub Repo stars](https://img.shields.io/github/stars/zoelabbb/gocrud_psql?style=plastic)    |
-
-| My Stats                                                                                                                                                                    | My Daily Day                                                                                                                                                                  |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoelabbb&show_icons=true&locale=en&theme=aura&hide_border=true" alt="zoelabbb" /></p> | <a href="https://app.daily.dev/alifryuu"><img src="https://api.daily.dev/devcards/bc6e27be4467435bb66aa59e8063eb37.png?r=nqv" width="250" alt="アリフリュウ's Dev Card"/></a> |
-
-<p> <img src="https://tryhackme-badges.s3.amazonaws.com/H1zoe.png" alt="TryHackMe"></p>
+| Project                                                                                            | Description                                                                                   | Support                                                                                                |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| <a href="https://github.com/zoelabbb/conio.h.git">zoelabbb/conio.h</a>                             | This is a library conio.h for linux 🖥️.                                                       | ![GitHub Repo stars](https://img.shields.io/github/stars/zoelabbb/conio.h?style=plastic)               |
+| <a href="https://github.com/zoelabbb/Gweather.git">zoelabbb/Gweather</a>                           | This is a simple command-line tool ( CLI ) built with Golang that provides weather forecasts. | ![GitHub Repo stars](https://img.shields.io/github/stars/zoelabbb/Gweather?style=plastic)              |
+| <a href="https://github.com/zoelabbb/todo-apps-reatcxbunjs.git">zoelabbb/todo-apps-reactxbunjs</a> | A simple To-Do List application built with React and Bun                                      | ![GitHub Repo stars](https://img.shields.io/github/stars/zoelabbb/todo-apps-reatcxbunjs?style=plastic) |
+| <a href="https://github.com/zoelabbb/animedb.git">zoelabbb/animedb</a>                             | AnimeDB is a minimalist anime search application built using Vue.js and TypeScript.           | ![GitHub Repo stars](https://img.shields.io/github/stars/zoelabbb/animedb?style=plastic)               |
 
 </div>
 
@@ -53,7 +47,7 @@
 
 ![CI](https://img.shields.io/badge/-Codeigniter-404D59?style=for-the-badge&logo=codeigniter) ![Go](https://img.shields.io/badge/-GO-07405E?style=for-the-badge&logo=go)
 ![Laravel](https://img.shields.io/badge/-Laravel-404D59?style=for-the-badge&logo=laravel)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express) ![Bun](https://img.shields.io/badge/Bun-404D59?style=for-the-badge&logo=bun)
 
 ### DATABASE
 
@@ -64,7 +58,6 @@
 ![Go](https://img.shields.io/badge/-Go-0B0D0E?style=for-the-badge&logo=go)
 ![JS](https://img.shields.io/badge/Javascript-0B0D0E?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/Php-0B0D0E?style=for-the-badge&logo=php)
-![Flutter](https://img.shields.io/badge/Flutter-0B0D0E?style=for-the-badge&logo=flutter)
 
 ![Postman](https://img.shields.io/badge/Postman-0B0D0E?style=for-the-badge&logo=postman) ![Heroku](https://img.shields.io/badge/Heroku-0B0D0E?style=for-the-badge&logo=heroku) ![Firebase](https://img.shields.io/badge/Firebase-0B0D0E?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/Planetscale-0B0D0E?style=for-the-badge&logo=planetscale) [![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway)](https://railway.app/?referralCode=CANLESS)![Aiven](https://img.shields.io/badge/-Aiven-black?style=for-the-badge&logoColor=orange)
 
@@ -77,7 +70,7 @@
     </td>
     <td align="right">
     <a href="#zoelabbb-title">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zoelabbb&theme=react&border=61dafb&hide_border=true" alt="zoelabbb" align="right"/>
+      <p> <img src="https://tryhackme-badges.s3.amazonaws.com/H1zoe.png" alt="TryHackMe"></p>
     </a>
     </td>
   </tr>
@@ -95,7 +88,7 @@
 
 <h3 align="left">SUPPORT</h3>
 
-[![Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-0B0D0E?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/ikoo)
+[![Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-0B0D0E?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/alifryuu)
 [![Trakteer](https://img.shields.io/badge/Trakteer-red?style=for-the-badge&logo=MasterCard)](https://www.teer.id/ikoo)
 
 <!--
