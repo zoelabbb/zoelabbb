@@ -7,7 +7,7 @@
 
 </div>
 
-<h1 align="center">Hi 👋, I'm Alif Ryuu</h1>
+<h1 align="center">Hi 👋, I'm Ryuu</h1>
 <h3 align="center">Full-Stack Developer & Cybersecurity Enthusiast from Indonesia 🇮🇩</h3>
 
 <div align="center">
